@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<medicines>
+    <medicine id= "1">
+        <generic name="Acetaminophen">
+            <brand name="Tylenol">
+                <about>
+                    <type>Capsule</type>
+                    <strength>500 mg</strength>
+                    <drug_class> Aminopenicillins</drug_class>
+                    <description>Relief and care for headache and fever</description>
+                </about>
+                <uses>
+                    <treatment_1>Treat infections of the ear, nose, and throat. </treatment_1>
+                    <treatment_2>Treat Infections of the genitourinary tract. </treatment_2>
+                    <treatment_3>Infections of the skin and skin structure. </treatment_3>
+                    <treatment_4>Infections of the lower respiratory tract. </treatment_4>
+                    <treatment_5>Cure bladder infections.</treatment_5>
+                </uses>
+                <safety_tips>
+                    <warning_1>Do not use this medication if you are allergic to amoxicillin or to any other penicillin antibiotic.</warning_1>
+                    <warning_2>Amoxicillin can make birth control pills less effective. </warning_2>
+                    <warning_3>Antibiotic medicines can cause diarrhea. </warning_3>
+                </safety_tips>
+                <company>
+                    <manufacturer>UNILAB, Inc</manufacturer>
+                </company>
+                <retail>
+                    <price>₱4.50</price>
+                </retail>
+            </brand>
+        </generic>
+    </medicine>
+    <medicine id="2">
+        <generic name="cetirizine hydrochloride">
+            <brand name="Zyrtec">
+                <about>
+                    <type>Tablet</type>
+                    <strength>10 mg</strength>
+                    <drug_class>Antihistamines</drug_class>
+                    <description>An antihistamine used to relieve allergy symptoms. </description>
+                </about>
+                <uses>
+                    <treatment_1>Treat cold or allergy symptoms such as sneezing, itching, watery eyes, or  </treatment_1>
+                    <treatment_2>Treat high fever.</treatment_2>
+                    <treatment_3>Treat reactions to insect bites and stings.</treatment_3>
+                    <treatment_4>Treat eczema. </treatment_4>
+                    <treatment_5>Treat conjunctivitis (red, itchy eye) </treatment_5>
+                </uses>
+                <safety_tips>
+                    <warning_1>Cetirizine can cause side effects that may impair your thinking or reactions.</warning_1>
+                    <warning_2>Avoid drinking alcoholic beverages while taking this medication. </warning_2>
+                    <warning_3>Tell your doctor if you have or have ever had kidney or liver disease. </warning_3>
+                </safety_tips>
+                <company>
+                    <manufacturer>Knoll Pharmaceuticals Ltd</manufacturer>
+                </company>
+                <retail>
+                    <price>₱20.75 RM</price>
+                </retail>
+             </brand>
+        </generic>
+    </medicine>
+    <medicine id="3">
+        <generic name="Ambroxol">
+            <brand name=" Mucosolvan">
+                <about>
+                    <type>Syrup</type>
+                    <strength> 5 ml</strength>
+                    <drug_class>Mucolytic</drug_class>
+                    <description>Ambroxol is kind of strong expectorant, clinically proven active mucolytic agent</description>
+                </about>
+                <uses>
+                    <treatment_1>It is used to relieve chronic inflammatory pulmonary conditions. </treatment_1>
+                    <treatment_2>It is used to treat bronchiectasis, bronchitis with bronchospasm asthma.</treatment_2>
+                    <treatment_3>The medicine has local anesthetic properties which contribute to the soothing effect of the syrup.</treatment_3>
+                    <treatment_4>Treatment of respiratory diseases associated with viscid or excessive mucus.  </treatment_4>
+                    <treatment_5>Ambroxol in this case relieves the patient from an excessive cough and thick sputum.</treatment_5>
+                </uses>
+                <safety_tips>
+                    <warning_1>Avoid using the medicine during the first trimester of pregnancy</warning_1>
+                    <warning_2>Avoid drinking alcoholic beverages while taking this medication. </warning_2>
+                    <warning_3>Don't take if you have asthma or asthma attacks </warning_3>
+                </safety_tips>
+                <company>
+                    <manufacturer> Kala Amb Industrial Area</manufacturer>
+                </company>
+                <retail>
+                    <price>₱81.00</price>
+                </retail>
+             </brand>
+        </generic>
+    </medicine>
+    <medicine id="4">
+        <generic name="phenylpropanolamine hydrochloride.">
+            <brand name="Neozep Forte">
+                <about>
+                    <type>Tablet</type>
+                    <strength>10 mg / 2 mg / 500 mg</strength>
+                    <drug_class>Analgesic-antipyretic</drug_class>
+                    <description>For relief of cold and all its symptoms.</description>
+                </about>
+                <uses>
+                    <treatment_1>It is used to relieve relief of clogged nose. </treatment_1>
+                    <treatment_2>It is used to treat body aches.</treatment_2>
+                    <treatment_3>Fever associated with the common cold</treatment_3>
+                    <treatment_4>Treatment minor respiratory tract infections.</treatment_4>
+                    <treatment_5>A allergic rhinitis, sinusitis, and flu. </treatment_5>
+                </uses>
+                <safety_tips>
+                    <warning_1>This medicine should not be used in people who are taking antidepressant drugs.</warning_1>
+                    <warning_2>Neozep should not be used in people who are allergic to certain drugs, especially the components contained in this medicine.</warning_2>
+                    <warning_3>This medicine may cause drowsiness. ...</warning_3>
+                </safety_tips>
+                <company>
+                    <manufacturer>PT. Medifarma Laboratories</manufacturer>
+                </company>
+                <retail>
+                    <price>₱5.25</price>
+                </retail>
+            </brand>
+        </generic>
+    </medicine>
+    <medicine id="5">
+        <generic name="Cephalexin">
+            <brand name=" Keflex">
+                <about>
+                    <type>Capsule</type>
+                    <strength>500 mg</strength>
+                    <drug_class>Cephalosporin antibiotics</drug_class>
+                    <description>Used to treat a wide variety of bacterial infectionsd</description>
+                </about>
+                <uses>
+                    <treatment_1>Respiratory tract infections</treatment_1>
+                    <treatment_2>Skin and soft tissue infections</treatment_2>
+                    <treatment_3>Genitourinary infections (urinary tract infections)</treatment_3>
+                    <treatment_4>Sinusitis</treatment_4>
+                    <treatment_5>Endocarditis prevention</treatment_5>
+                </uses>
+                <safety_tips>
+                    <warning_1>Do not take this drug again if you’ve ever had an allergic reaction to it before. </warning_1>
+                    <warning_2>Cephalexin can cause a severe allergic reaction.</warning_2>
+                    <warning_3>For people with kidney problems</warning_3>
+                </safety_tips>
+                <company>
+                    <manufacturer>PT. Medifarma Laboratories</manufacturer>
+                </company>
+                <retail>
+                    <price>₱9.50</price>
+                </retail>
+          </brand>
+        </generic>
+    </medicine>
+</medicines>
